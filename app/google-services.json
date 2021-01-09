@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "92947450566",
+    "firebase_url": "https://vanish-9b93a.firebaseio.com",
+    "project_id": "vanish-9b93a",
+    "storage_bucket": "vanish-9b93a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92947450566:android:7609395a35e8cec50425c7",
+        "android_client_info": {
+          "package_name": "com.vanish.message.vanish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92947450566-frpqcgcm42pes60i8oukkniu6jptr0b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanish.message.vanish",
+            "certificate_hash": "0a2727a1a5cd598e0d02db2d5ec56fcc761db4ea"
+          }
+        },
+        {
+          "client_id": "92947450566-19g85uqe8830fm8vjp04scut93fqss47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwDsCqvy31fZrAzLMOaZMCXamw_mc-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92947450566-19g85uqe8830fm8vjp04scut93fqss47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
